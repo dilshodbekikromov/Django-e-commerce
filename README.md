@@ -4,10 +4,6 @@
 
 
 
-<b> Downloading project:</b><br>
- Clone as zip file and open it your computer or if you have git application<br>
- https://github.com/celikyuksell/Django-E-Commerce.git<br>
- 
 <b>Before running this project you need intall below list apps and packages</b><br>
 
 Install Python 3.7 or above -> https://www.python.org/<br>
